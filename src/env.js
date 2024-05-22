@@ -1,3 +1,3 @@
 export default {
-  apiKey: "358f15cc",
+  apikey: "358f15cc",
 };

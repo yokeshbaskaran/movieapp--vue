@@ -45,4 +45,15 @@ h1 {
     color: #42b883;
   }
 }
+
+footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  padding: 8px;
+  color: white;
+  background-color: #2c3d4e;
+}
 </style>
