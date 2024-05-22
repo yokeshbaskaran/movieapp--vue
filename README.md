@@ -1,4 +1,6 @@
-# Movie-app
+# Movie-App
+
+- A Website for Movie search.
 
 ## Tech Stack - Vue.js
 
