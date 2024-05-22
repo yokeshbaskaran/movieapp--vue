@@ -32,7 +32,6 @@ export default {
         .then((response) => response.json())
         .then((data) => {
           movie.value = data;
-          console.log(data);
         });
     });
 
